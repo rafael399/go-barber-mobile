@@ -13,7 +13,7 @@ Todos os registros são salvos em um banco de dados PostgreSQL
 - Clone e rode o [Backend](https://github.com/rafael399/go-barber-backend) da aplicação
 - Clone o repositório
 - Rode o comando `yarn` para instalar as dependencias do projeto
-- Rode o comando `cd ios && pod install && cd..`
+- Rode o comando `cd ios && pod install && cd..` e `yarn react-native link`
 - Rode a aplicação Mobile com `yarn ios` ou `yarn android` (PS: Esta aplicação foi testada somente no iOS)
 
 <!-- ## :camera: -->
